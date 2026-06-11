@@ -1,0 +1,36 @@
+{
+  "short_name": "LVH_JVH_KIP",
+  "name": "🐔 Kippenboer app",
+  "icons": [
+    {
+      "src": "kip.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "kip.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "kip.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "kip.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/LVH_JVH_KIP/index.html",
+  "id": "/LVH_JVH_KIP/",
+  "background_color": "#0E0A02",
+  "theme_color": "#0E0A02",
+  "display": "standalone",
+  "orientation": "portrait"
+}
